@@ -1,1 +1,1 @@
-This program runs a two-player game of ultimate tic-tac-toe.
+This program runs a simple two-player game of ultimate tic-tac-toe.
